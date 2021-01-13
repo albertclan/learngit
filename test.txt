@@ -1,3 +1,4 @@
 test
 git push -u origin master
-git branch
+show branch: git branch
+git switch -c dev
