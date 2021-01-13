@@ -2,3 +2,4 @@ test
 git push -u origin master
 show branch: git branch
 git switch -c dev
+Creating a new branch is quick & simple.
